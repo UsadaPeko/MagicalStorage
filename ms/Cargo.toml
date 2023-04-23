@@ -1,5 +1,6 @@
 [package]
-name = "magical_storage"
+name = "ms"
+description = "ms - usaken's magical storage system"
 version = "0.1.0"
 edition = "2021"
 
