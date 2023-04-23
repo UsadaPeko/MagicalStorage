@@ -2,7 +2,7 @@
 
 Usaken's Magical File Storage: A self-hosted, secure, and user-friendly solution for storing, organizing, and sharing files without relying on cloud services
 
-<img src="./statics/project_image.png" weight="500px" />
+<img src="./statics/project_image.png" width="500px" />
 
 ## Usage
 
