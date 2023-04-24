@@ -7,7 +7,7 @@ fn main() {
     match load_setver_config_from_file() {
         Ok(config) => {
             println!("load config!");
-            println!("{}", config.host);
+            println!("host: {}", config.host);
         }
         Err(err) => {
             println!("fail to load config, {}", err);
